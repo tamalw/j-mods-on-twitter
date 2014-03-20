@@ -1,0 +1,158 @@
+- title: RuneScape
+  subsections:
+    - title: RuneScape Management
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod MMG','Chief Executive Officer','Mark__Gerhard']
+        - ['Mod BohoJojo','Executive Assistant','JagexBohoJoJo']
+        - ['Mod Catfist','Product Manager','JagexCatFist']
+        - ['Mod Kelpie','Release Coordinator','JagexKelpie']
+        - ['Mod Mac','RuneScape Marketing Manager','JagexMac']
+        - ['Mod Mark','Design Director','Jagex_Mark']
+        - ['Mod Pips','Executive Producer','JagexPips']
+        - ['Mod Whalefis','Art Director','JagexWhalefis']
+    - title: RuneScape Content
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Allstar','Web Development','JagexAllstar']
+        - ['Mod Ana','Content Team','JagexAna']
+        - ['Mod Asherz','Content Team','JagexAsherz']
+        - ['Mod Avatar','Content Team','JagexAvatar']
+        - ['Mod Boko','Content Team','JagexBoko']
+        - ['Mod Chris L','Content Team','JagexChrisL']
+        - ['Mod Conor','Content Team','JagexConor']
+        - ['Mod Daze','Content Team','JagexDaze']
+        - ['Mod Dean','Content Team','JagexDean']
+        - ['Mod Deg','Content Team','JagexDeg']
+        - ['Mod Doctor','Content Team','JagexDoctor']
+        - ['Mod Drew','Lead Technical Developer','JagexDrew']
+        - ['Mod Fox30','Content Team','JagexFox30']
+        - ['Mod Helen','Technical Developer','JagexHelen']
+        - ['Mod Hew','Content Team','JagexHew']
+        - ['Mod Jack','Content Team','JagexJack']
+        - ['Mod JohnA','Content Team','JagexJohnA']
+        - ['Mod Krista','Content Team','JagexKrista']
+        - ['Mod Michelle','RuneScape Editor','JagexMichelle']
+        - ['Mod Moltare','Content Team','Moltare']
+        - ['Mod Necron','Content Team','JagexNecron']
+        - ['Mod Ollie','Content Team','JagexOllie']
+        - ['Mod Osborne','Senior Narrative Designer','JagexOsborne']
+        - ['Mod Pi','Content Team','JagexPi']
+        - ['Mod Raven','Content Team','JagexRaven']
+        - ['Mod Rowley','Content Team','JagexRowley']
+        - ['Mod Sayln','Content Team','JagexSayln']
+        - ['Mod Stu','Content Team','JagexStu']
+        - ['Mod Timbo','Content Team','JagexTimbo']
+        - ['Mod William','RuneScape Editor','JagexWilliam']
+    - title: RuneScape Game Analytics
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Porky','Game Analyst','JagexPorky']
+    - title: RuneScape Quality Assurance Team
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Bira','QA','JagexBira']
+        - ['Mod Chaose','QA','JagexChaose']
+        - ['Mod Cocoa','QA','JagexCocoa']
+        - ['Mod Dorando','QA','JagexDorando']
+        - ['Mod Fuzzlet','QA','JagexFuzzlet']
+        - ['Mod Giara','QA','JagexGiara']
+        - ['Mod Grem','QA','JagexGrem']
+        - ['Mod Oliver','QA','JagexOliver']
+        - ['Mod Ramen','QA','JagexRamen']
+        - ['Mod Ryan','QA','JagexRyan']
+        - ['Mod Sarah','QA','JagexSarah']
+        - ['Mod Wolf','QA','JagexWolf']
+- title: Community Management
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Balance','Engagement Specialist','JagexBalance']
+    - ['Mod Crow','Engagement Specialist','RevenantCrow']
+    - ['Mod Infinity','Engagement Specialist','JagexInfinity']
+    - ['Mod Jane','Head of Community','Mod_Jane']
+    - ['Mod Matthe','New User Experience Specialist','JagexMatthe']
+    - ['Mod Slayer','Content Liason Specialist','JagexSlayer']
+- title: Video Production
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Campbell','Video Production','Mod_Campbell']
+    - ['Mod Dee','Video Production','Mod__Dee']
+    - ['Mod Paul M','Video Production Manager','ModPaulM']
+- title: Video Community
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Lee','Video Community','JagexLee']
+- title: Web Quality Assurance Team
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Pug','Web QA','JagexPug']
+- title: Audio Team
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Bond','Audio','JagexBond']
+    - ['Mod Lord','Audio','JagexLord']
+- title: Player Support
+  headers: ['Mod Name','Role','Twitter']
+  avatars: true
+  jmods:
+    - ['Mod Beno','ICU Specialist','JagexBeno']
+    - ['Mod Hannes','Player Support','JagexHannes']
+    - ['Mod Kalaya','Billing Support','JagexKalaya']
+    - ['Mod Lyon','Player Support','JagexLyon']
+    - ['Mod Rawny','Tools Specialist','JagexRawny']
+    - ['Mod SteveW','Player Support','JagexSteveW']
+    - ['Mod Tron','Player Support','JagexTron']
+    - ['Mod Tyran','Player Support','JagexTyran']
+    - ['Mod Weath','ICU Specialist','JagexWeath']
+- title: Old School RuneScape
+  subsections:
+    - title: Old School RuneScape Content
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Ash','OldSchool Content','JagexAsh']
+        - ['Mod Reach','OldSchool Content','JagexReach']
+    - title: Old School RuneScape Quality Assurance
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod JohnC','OldSchool QA','JagexJohnC']
+    - title: Old School RuneScape Community Management
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Mat K','Community Manager','JagexMatK']
+- title: Transformers Universe
+  subsections:
+    - title: Transformers Universe Content
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Turnbull','Transformers Universe Animation','JagexTurnbull']
+    - title: Transformers Universe QA
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Raketh','Transformers Universe QA','JagexRaketh']
+    - title: Transformers Universe Community
+      headers: ['Mod Name','Role','Twitter']
+      avatars: true
+      jmods:
+        - ['Mod Crow','Transformers Universe Community','RevenantCrow']
+        - ['Mod JoshT','Transformers Universe Community','JagexJoshT']
+        - ['Mod Cipher','Transformers Universe Community','JagexAmelie']
+- title: The Tanks
+  headers: ['Tank Name','Role','Twitter']
+  avatars: false
+  jmods:
+    - ['Bertha','Tank','JagexTankBertha']
+    - ['Brian','Tank','JagexTankBrian']

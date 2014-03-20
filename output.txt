@@ -1,0 +1,539 @@
+= RuneScape =
+== RuneScape Management ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod MMG/chat.png')"></div>
+| Mod MMG
+| Chief Executive Officer
+| [https://twitter.com/Mark__Gerhard @Mark__Gerhard]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod BohoJojo/chat.png')"></div>
+| Mod BohoJojo
+| Executive Assistant
+| [https://twitter.com/JagexBohoJoJo @JagexBohoJoJo]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Catfist/chat.png')"></div>
+| Mod Catfist
+| Product Manager
+| [https://twitter.com/JagexCatFist @JagexCatFist]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Kelpie/chat.png')"></div>
+| Mod Kelpie
+| Release Coordinator
+| [https://twitter.com/JagexKelpie @JagexKelpie]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Mac/chat.png')"></div>
+| Mod Mac
+| RuneScape Marketing Manager
+| [https://twitter.com/JagexMac @JagexMac]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Mark/chat.png')"></div>
+| Mod Mark
+| Design Director
+| [https://twitter.com/Jagex_Mark @Jagex_Mark]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Pips/chat.png')"></div>
+| Mod Pips
+| Executive Producer
+| [https://twitter.com/JagexPips @JagexPips]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Whalefis/chat.png')"></div>
+| Mod Whalefis
+| Art Director
+| [https://twitter.com/JagexWhalefis @JagexWhalefis]
+|}
+== RuneScape Content ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Allstar/chat.png')"></div>
+| Mod Allstar
+| Web Development
+| [https://twitter.com/JagexAllstar @JagexAllstar]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Ana/chat.png')"></div>
+| Mod Ana
+| Content Team
+| [https://twitter.com/JagexAna @JagexAna]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Asherz/chat.png')"></div>
+| Mod Asherz
+| Content Team
+| [https://twitter.com/JagexAsherz @JagexAsherz]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Avatar/chat.png')"></div>
+| Mod Avatar
+| Content Team
+| [https://twitter.com/JagexAvatar @JagexAvatar]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Boko/chat.png')"></div>
+| Mod Boko
+| Content Team
+| [https://twitter.com/JagexBoko @JagexBoko]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Chris L/chat.png')"></div>
+| Mod Chris L
+| Content Team
+| [https://twitter.com/JagexChrisL @JagexChrisL]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Conor/chat.png')"></div>
+| Mod Conor
+| Content Team
+| [https://twitter.com/JagexConor @JagexConor]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Daze/chat.png')"></div>
+| Mod Daze
+| Content Team
+| [https://twitter.com/JagexDaze @JagexDaze]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Dean/chat.png')"></div>
+| Mod Dean
+| Content Team
+| [https://twitter.com/JagexDean @JagexDean]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Deg/chat.png')"></div>
+| Mod Deg
+| Content Team
+| [https://twitter.com/JagexDeg @JagexDeg]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Doctor/chat.png')"></div>
+| Mod Doctor
+| Content Team
+| [https://twitter.com/JagexDoctor @JagexDoctor]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Drew/chat.png')"></div>
+| Mod Drew
+| Lead Technical Developer
+| [https://twitter.com/JagexDrew @JagexDrew]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Fox30/chat.png')"></div>
+| Mod Fox30
+| Content Team
+| [https://twitter.com/JagexFox30 @JagexFox30]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Helen/chat.png')"></div>
+| Mod Helen
+| Technical Developer
+| [https://twitter.com/JagexHelen @JagexHelen]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Hew/chat.png')"></div>
+| Mod Hew
+| Content Team
+| [https://twitter.com/JagexHew @JagexHew]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Jack/chat.png')"></div>
+| Mod Jack
+| Content Team
+| [https://twitter.com/JagexJack @JagexJack]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod JohnA/chat.png')"></div>
+| Mod JohnA
+| Content Team
+| [https://twitter.com/JagexJohnA @JagexJohnA]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Krista/chat.png')"></div>
+| Mod Krista
+| Content Team
+| [https://twitter.com/JagexKrista @JagexKrista]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Michelle/chat.png')"></div>
+| Mod Michelle
+| RuneScape Editor
+| [https://twitter.com/JagexMichelle @JagexMichelle]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Moltare/chat.png')"></div>
+| Mod Moltare
+| Content Team
+| [https://twitter.com/Moltare @Moltare]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Necron/chat.png')"></div>
+| Mod Necron
+| Content Team
+| [https://twitter.com/JagexNecron @JagexNecron]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Ollie/chat.png')"></div>
+| Mod Ollie
+| Content Team
+| [https://twitter.com/JagexOllie @JagexOllie]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Osborne/chat.png')"></div>
+| Mod Osborne
+| Senior Narrative Designer
+| [https://twitter.com/JagexOsborne @JagexOsborne]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Pi/chat.png')"></div>
+| Mod Pi
+| Content Team
+| [https://twitter.com/JagexPi @JagexPi]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Raven/chat.png')"></div>
+| Mod Raven
+| Content Team
+| [https://twitter.com/JagexRaven @JagexRaven]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Rowley/chat.png')"></div>
+| Mod Rowley
+| Content Team
+| [https://twitter.com/JagexRowley @JagexRowley]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Sayln/chat.png')"></div>
+| Mod Sayln
+| Content Team
+| [https://twitter.com/JagexSayln @JagexSayln]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Stu/chat.png')"></div>
+| Mod Stu
+| Content Team
+| [https://twitter.com/JagexStu @JagexStu]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Timbo/chat.png')"></div>
+| Mod Timbo
+| Content Team
+| [https://twitter.com/JagexTimbo @JagexTimbo]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod William/chat.png')"></div>
+| Mod William
+| RuneScape Editor
+| [https://twitter.com/JagexWilliam @JagexWilliam]
+|}
+== RuneScape Game Analytics ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Porky/chat.png')"></div>
+| Mod Porky
+| Game Analyst
+| [https://twitter.com/JagexPorky @JagexPorky]
+|}
+== RuneScape Quality Assurance Team ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Bira/chat.png')"></div>
+| Mod Bira
+| QA
+| [https://twitter.com/JagexBira @JagexBira]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Chaose/chat.png')"></div>
+| Mod Chaose
+| QA
+| [https://twitter.com/JagexChaose @JagexChaose]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Cocoa/chat.png')"></div>
+| Mod Cocoa
+| QA
+| [https://twitter.com/JagexCocoa @JagexCocoa]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Dorando/chat.png')"></div>
+| Mod Dorando
+| QA
+| [https://twitter.com/JagexDorando @JagexDorando]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Fuzzlet/chat.png')"></div>
+| Mod Fuzzlet
+| QA
+| [https://twitter.com/JagexFuzzlet @JagexFuzzlet]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Giara/chat.png')"></div>
+| Mod Giara
+| QA
+| [https://twitter.com/JagexGiara @JagexGiara]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Grem/chat.png')"></div>
+| Mod Grem
+| QA
+| [https://twitter.com/JagexGrem @JagexGrem]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Oliver/chat.png')"></div>
+| Mod Oliver
+| QA
+| [https://twitter.com/JagexOliver @JagexOliver]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Ramen/chat.png')"></div>
+| Mod Ramen
+| QA
+| [https://twitter.com/JagexRamen @JagexRamen]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Ryan/chat.png')"></div>
+| Mod Ryan
+| QA
+| [https://twitter.com/JagexRyan @JagexRyan]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Sarah/chat.png')"></div>
+| Mod Sarah
+| QA
+| [https://twitter.com/JagexSarah @JagexSarah]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Wolf/chat.png')"></div>
+| Mod Wolf
+| QA
+| [https://twitter.com/JagexWolf @JagexWolf]
+|}
+= Community Management =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Balance/chat.png')"></div>
+| Mod Balance
+| Engagement Specialist
+| [https://twitter.com/JagexBalance @JagexBalance]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Crow/chat.png')"></div>
+| Mod Crow
+| Engagement Specialist
+| [https://twitter.com/RevenantCrow @RevenantCrow]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Infinity/chat.png')"></div>
+| Mod Infinity
+| Engagement Specialist
+| [https://twitter.com/JagexInfinity @JagexInfinity]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Jane/chat.png')"></div>
+| Mod Jane
+| Head of Community
+| [https://twitter.com/Mod_Jane @Mod_Jane]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Matthe/chat.png')"></div>
+| Mod Matthe
+| New User Experience Specialist
+| [https://twitter.com/JagexMatthe @JagexMatthe]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Slayer/chat.png')"></div>
+| Mod Slayer
+| Content Liason Specialist
+| [https://twitter.com/JagexSlayer @JagexSlayer]
+|}
+= Video Production =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Campbell/chat.png')"></div>
+| Mod Campbell
+| Video Production
+| [https://twitter.com/Mod_Campbell @Mod_Campbell]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Dee/chat.png')"></div>
+| Mod Dee
+| Video Production
+| [https://twitter.com/Mod__Dee @Mod__Dee]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Paul M/chat.png')"></div>
+| Mod Paul M
+| Video Production Manager
+| [https://twitter.com/ModPaulM @ModPaulM]
+|}
+= Video Community =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Lee/chat.png')"></div>
+| Mod Lee
+| Video Community
+| [https://twitter.com/JagexLee @JagexLee]
+|}
+= Web Quality Assurance Team =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Pug/chat.png')"></div>
+| Mod Pug
+| Web QA
+| [https://twitter.com/JagexPug @JagexPug]
+|}
+= Audio Team =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Bond/chat.png')"></div>
+| Mod Bond
+| Audio
+| [https://twitter.com/JagexBond @JagexBond]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Lord/chat.png')"></div>
+| Mod Lord
+| Audio
+| [https://twitter.com/JagexLord @JagexLord]
+|}
+= Player Support =
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Beno/chat.png')"></div>
+| Mod Beno
+| ICU Specialist
+| [https://twitter.com/JagexBeno @JagexBeno]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Hannes/chat.png')"></div>
+| Mod Hannes
+| Player Support
+| [https://twitter.com/JagexHannes @JagexHannes]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Kalaya/chat.png')"></div>
+| Mod Kalaya
+| Billing Support
+| [https://twitter.com/JagexKalaya @JagexKalaya]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Lyon/chat.png')"></div>
+| Mod Lyon
+| Player Support
+| [https://twitter.com/JagexLyon @JagexLyon]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Rawny/chat.png')"></div>
+| Mod Rawny
+| Tools Specialist
+| [https://twitter.com/JagexRawny @JagexRawny]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod SteveW/chat.png')"></div>
+| Mod SteveW
+| Player Support
+| [https://twitter.com/JagexSteveW @JagexSteveW]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Tron/chat.png')"></div>
+| Mod Tron
+| Player Support
+| [https://twitter.com/JagexTron @JagexTron]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Tyran/chat.png')"></div>
+| Mod Tyran
+| Player Support
+| [https://twitter.com/JagexTyran @JagexTyran]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Weath/chat.png')"></div>
+| Mod Weath
+| ICU Specialist
+| [https://twitter.com/JagexWeath @JagexWeath]
+|}
+= Old School RuneScape =
+== Old School RuneScape Content ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Ash/chat.png')"></div>
+| Mod Ash
+| OldSchool Content
+| [https://twitter.com/JagexAsh @JagexAsh]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Reach/chat.png')"></div>
+| Mod Reach
+| OldSchool Content
+| [https://twitter.com/JagexReach @JagexReach]
+|}
+== Old School RuneScape Quality Assurance ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod JohnC/chat.png')"></div>
+| Mod JohnC
+| OldSchool QA
+| [https://twitter.com/JagexJohnC @JagexJohnC]
+|}
+== Old School RuneScape Community Management ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Mat K/chat.png')"></div>
+| Mod Mat K
+| Community Manager
+| [https://twitter.com/JagexMatK @JagexMatK]
+|}
+= Transformers Universe =
+== Transformers Universe Content ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Turnbull/chat.png')"></div>
+| Mod Turnbull
+| Transformers Universe Animation
+| [https://twitter.com/JagexTurnbull @JagexTurnbull]
+|}
+== Transformers Universe QA ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Raketh/chat.png')"></div>
+| Mod Raketh
+| Transformers Universe QA
+| [https://twitter.com/JagexRaketh @JagexRaketh]
+|}
+== Transformers Universe Community ==
+{| class="prettytable" width="75%"
+! width="15%" | Avatar
+! width="25%" | Mod Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Crow/chat.png')"></div>
+| Mod Crow
+| Transformers Universe Community
+| [https://twitter.com/RevenantCrow @RevenantCrow]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod JoshT/chat.png')"></div>
+| Mod JoshT
+| Transformers Universe Community
+| [https://twitter.com/JagexJoshT @JagexJoshT]
+|-
+| <div style="width:100px; height:100px; background: url('http://services.runescape.com/m=avatar-rs/Mod Cipher/chat.png')"></div>
+| Mod Cipher
+| Transformers Universe Community
+| [https://twitter.com/JagexAmelie @JagexAmelie]
+|}
+= The Tanks =
+{| class="prettytable" width="75%"
+! width="25%" | Tank Name
+! width="35%" | Role
+! width="25%" | Twitter
+|-
+| Bertha
+| Tank
+| [https://twitter.com/JagexTankBertha @JagexTankBertha]
+|-
+| Brian
+| Tank
+| [https://twitter.com/JagexTankBrian @JagexTankBrian]
+|}
